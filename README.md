@@ -182,6 +182,12 @@ A visual scripting designed to help in those scenarios where you need visual con
 ### [Zig 2](https://github.com/thimenesup/GodotZigBindings)  👥 🔌 🧩 
    Almost no documentation is provided. This project's status is uncertain. 
 
+### [Java](https://github.com/youngledo/godot-java)  👥 🧩 🔌
+
+   Java bindings for Godot 4 via Panama FFI (Foreign Function & Memory API, ~50ns per call).
+   Compile-time annotation processing (APT) for type discovery — zero runtime reflection.
+   Requires Java 25+.
+
 ### [Kotlin](https://github.com/kingg22/kogot) 👥 🧩 🔌
    In Development, uses Kotlin Native instead of JVM
 
