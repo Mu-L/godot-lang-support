@@ -140,7 +140,7 @@ Respect that JIT restricted platforms also don't allow downloading code from rem
 A visual scripting designed to help in those scenarios where you need visual control of things that may happen sequentially in-game.
 
 ### [C](https://github.com/system-er/gdtinycc) 🧩
-GDTinyCC - C compiler (TinyCC) integrated as GDExtension. compiling real C code directly inside Godot.
+GDTinyCC - C compiler (TinyCC) integrated as GDExtension.
 
 ### [D](https://github.com/godot-dlang/godot-dlang)  👥 🧩 🔌
    New, maintained binding to GDExtension, ported from the previous GDNative extension.
