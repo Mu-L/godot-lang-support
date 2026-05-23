@@ -139,7 +139,7 @@ Respect that JIT restricted platforms also don't allow downloading code from rem
    Eventsheet-based coding.  
 A visual scripting designed to help in those scenarios where you need visual control of things that may happen sequentially in-game.
 
-### [C](https://github.com/system-er/gdtinycc)
+### [C](https://github.com/system-er/gdtinycc) 🧩
 GDTinyCC - C compiler (TinyCC) integrated as GDExtension. compiling real C code directly inside Godot.
 
 ### [D](https://github.com/godot-dlang/godot-dlang)  👥 🧩 🔌
