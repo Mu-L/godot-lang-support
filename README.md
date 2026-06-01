@@ -139,6 +139,9 @@ Respect that JIT restricted platforms also don't allow downloading code from rem
    Eventsheet-based coding.  
 A visual scripting designed to help in those scenarios where you need visual control of things that may happen sequentially in-game.
 
+### [C](https://github.com/system-er/gdtinycc) 🧩
+The _TinyCC_ C compiler integrated as a GDExtension.
+
 ### [D](https://github.com/godot-dlang/godot-dlang)  👥 🧩 🔌
    New, maintained binding to GDExtension, ported from the previous GDNative extension.
 
@@ -176,14 +179,12 @@ A visual scripting designed to help in those scenarios where you need visual con
    Allows loading WASM libraries from other languages. Available as both a module and a GDExtension.
 
 ### [Zig](https://github.com/Doubleword-Labs/godot-zig) 👥 🔌 🧩 
-
    Makes good progress, still in beta.
 
 ### [Zig 2](https://github.com/thimenesup/GodotZigBindings)  👥 🔌 🧩 
    Almost no documentation is provided. This project's status is uncertain. 
 
 ### [Java](https://github.com/youngledo/godot-java)  👥 🧩 🔌
-
    Java bindings for Godot 4 via Panama FFI (Foreign Function & Memory API, ~50ns per call).
    Compile-time annotation processing (APT) for type discovery — zero runtime reflection.
    Requires Java 25+.
