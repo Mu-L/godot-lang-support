@@ -192,6 +192,9 @@ The _TinyCC_ C compiler integrated as a GDExtension.
 ### [Kotlin](https://github.com/kingg22/kogot) 👥 🧩 🔌
    In Development, uses Kotlin Native instead of JVM
 
+### [Scala Native](https://github.com/julian-avar/gdext-sc-native) 👥 🧩
+   In Development, uses Scala Native instead of JVM
+
 ## Help
 
 As a small **volunteer** team with only two active maintainers (@ShalokShalom and @Vivraan), tracking community favourites versus cool upcoming demos of the GDExtension technology is challenging, given our busy schedules and attention spans 🫠
